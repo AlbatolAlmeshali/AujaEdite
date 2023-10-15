@@ -12,6 +12,7 @@
 		1648F18C2AD6921F00962C69 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1648F18B2AD6921F00962C69 /* ContentView.swift */; };
 		1648F18E2AD6922000962C69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1648F18D2AD6922000962C69 /* Assets.xcassets */; };
 		1648F1912AD6922000962C69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1648F1902AD6922000962C69 /* Preview Assets.xcassets */; };
+		5ED8C17A2ADBC3CD00528FE3 /* PopUpCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED8C1792ADBC3CD00528FE3 /* PopUpCode.swift */; };
 		8A6176592AD7ECC600709675 /* PopUpInvite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6176582AD7ECC600709675 /* PopUpInvite.swift */; };
 		8A61765B2AD7F2EE00709675 /* PopUpProfile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A61765A2AD7F2EE00709675 /* PopUpProfile2.swift */; };
 		8A61765D2AD7F36100709675 /* PopUpJoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A61765C2AD7F36100709675 /* PopUpJoin.swift */; };
@@ -25,6 +26,7 @@
 		1648F18B2AD6921F00962C69 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1648F18D2AD6922000962C69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1648F1902AD6922000962C69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5ED8C1792ADBC3CD00528FE3 /* PopUpCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpCode.swift; sourceTree = "<group>"; };
 		8A6176582AD7ECC600709675 /* PopUpInvite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpInvite.swift; sourceTree = "<group>"; };
 		8A61765A2AD7F2EE00709675 /* PopUpProfile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpProfile2.swift; sourceTree = "<group>"; };
 		8A61765C2AD7F36100709675 /* PopUpJoin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpJoin.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		1648F17D2AD6921F00962C69 = {
 			isa = PBXGroup;
 			children = (
+				5ED8C1792ADBC3CD00528FE3 /* PopUpCode.swift */,
 				1648F1882AD6921F00962C69 /* saduAnimetion */,
 				1648F1872AD6921F00962C69 /* Products */,
 			);
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A61765F2AD7F38500709675 /* rotate2D.swift in Sources */,
+				5ED8C17A2ADBC3CD00528FE3 /* PopUpCode.swift in Sources */,
 				8A61765D2AD7F36100709675 /* PopUpJoin.swift in Sources */,
 				1648F18C2AD6921F00962C69 /* ContentView.swift in Sources */,
 				1648F18A2AD6921F00962C69 /* saduAnimetionApp.swift in Sources */,
